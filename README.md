@@ -1,2 +1,3 @@
 # calc
-This is my firs project
+This is my first project
+It is calculator
